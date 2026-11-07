@@ -13,7 +13,6 @@ import {
   Menu,
   X,
   ChevronLeft,
-  Clock3,
   Zap,
 } from 'lucide-react'
 import './App.css'
